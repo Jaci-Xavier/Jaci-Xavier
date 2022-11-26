@@ -1,4 +1,10 @@
-## Opa, eu sou o Jaci Xavier. Dev Web em formação pela <a href="https://www.betrybe.com/" targget="_blank">Trybe</a>
+# Opa, eu sou o Jaci Xavier. Seja muito bem vindo(a) a esse espaço em construção. 🛠️📚🚀
+
+
+### Dev Web em formação pela <a href="https://www.betrybe.com/" targget="_blank">Trybe</a> 🧑‍💻🖥️🧑‍🎓
+
+##
+
 <div align="center">
   <a href="https://github.com/Jaci-Xavier">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Jaci-Xavier&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
