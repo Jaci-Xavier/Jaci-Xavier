@@ -1,7 +1,7 @@
 # Opa, eu sou o Jaci Xavier. Seja muito bem vindo(a) a esse espaço em construção. 🛠️📚🚀
 
 
-### Dev Web em formação pela <a href="https://www.betrybe.com/" targget="_blank">Trybe</a> 🧑‍💻🖥️🧑‍🎓
+### Dev full stack formado pela <a href="https://www.betrybe.com/" targget="_blank">Trybe</a> 🧑‍💻🖥️🧑‍🎓
 
 ##
 
