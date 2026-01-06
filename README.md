@@ -7,8 +7,8 @@
 
 <div align="center">
   <a href="https://github.com/Jaci-Xavier">
-  <img height="160em" src="https://github-readme-stats-ruan-portella.vercel.app/api?username=Jaci-Xavier&include_all_commits=true&show_icons=true&theme=dracula&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats-ruan-portella.vercel.app/api/top-langs/?username=Jaci-Xavier&langs_count=10&count_private=true&theme=dracula&layout=compact"/>
+  <img height="160em" src="https://github-readme-stats-jaci.vercel.app/api?username=Jaci-Xavier&include_all_commits=true&show_icons=true&theme=dracula&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats-jaci.vercel.app/api/top-langs?username=Jaci-Xavier&langs_count=10&count_private=true&theme=dracula&layout=compact"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jaci-Xavier&theme=dark&date_format=M%20j%5B%2C%20Y%5D">
 </div>
 <div align="center" style="display: inline_block"><br>
