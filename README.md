@@ -20,7 +20,7 @@ Atualmente curso **Sistemas de Informação (5º período)** na **IBMR** e sou f
 
 - **Desenvolvimento Web Full Stack** — Trybe
 
-- **Yellow Belt** — FM2S
+- **Yellow Belt - Lean Six Sigma** — FM2S
 
 ##
 
