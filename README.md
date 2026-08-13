@@ -16,7 +16,7 @@ Atualmente curso **Sistemas de Informação (5º período)** na **IBMR** e sou f
 ## 🎓 Formação Acadêmica
 
 - **Bacharelado em Sistemas de Informação** — IBMR  
-  5º período (em andamento)
+  6º período (em andamento)
 
 - **Desenvolvimento Web Full Stack** — Trybe
 
