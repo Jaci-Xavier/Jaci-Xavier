@@ -2,7 +2,7 @@
 
 Desenvolvedor **Full Stack**, com experiência profissional no desenvolvimento e manutenção de aplicações web, APIs REST e boas práticas de engenharia de software, atuando tanto no **front-end** quanto no **back-end**.
 
-Atualmente curso **Sistemas de Informação (5º período)** na **IBMR** e sou formado em **Desenvolvimento Web Full Stack** pela **Trybe**.
+Atualmente curso **Sistemas de Informação (6º período)** na **IBMR** e sou formado em **Desenvolvimento Web Full Stack** pela **Trybe**.
 
 ##
 
